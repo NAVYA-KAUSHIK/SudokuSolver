@@ -21,8 +21,10 @@ __________________________________________________________________
 
  
 
-CONSOLE IMAGES: 
-![SUDOKU_1](https://github.com/NAVYA-KAUSHIK/SudokuSolver/assets/146051697/ea795df5-817b-4e45-be80-c2ab236d37a9)
+CONSOLE IMAGE: 
+
+![SUDOKU_1](https://github.com/NAVYA-KAUSHIK/SudokuSolver/assets/146051697/de4ec9fb-bf12-4335-9e6b-6dcf50df69e7)
+
 
  
 
