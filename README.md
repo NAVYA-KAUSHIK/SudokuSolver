@@ -13,9 +13,9 @@ ___________________________________________________________________
 INSTRUCTIONS: 
 ___________________________________________________________________ 
 
- Given is a partially filled 9x9 grid(sudoku),  
+ There  is a partially filled 9x9 grid(sudoku),  
 
-We have to place numbers from 1 to 9 in the empty places such that every number has only one instance in each row, column  and 3x3 subgrid; 
+We have to place numbers from 1 to 9 in the empty places such that every number only appears once  in each row, column  and 3x3 subgrid; 
 
 __________________________________________________________________ 
 
